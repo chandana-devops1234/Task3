@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "terratask" {
-  name     = "terratask"
+  name     = "terra"
   location = "East US"
 }
